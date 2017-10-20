@@ -1,6 +1,6 @@
 {
   "name": "transform-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform @object properties using @propKeys and @transformers. ES5 compatible.",
   "main": "index.js",
   "scripts": {
